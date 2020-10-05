@@ -1,0 +1,13 @@
+1.- Crear una base de datos llamada sistema con phpmyadmin
+    o en al shell de xampp.
+    O importar la base de datos agregada este archivo llamada
+    sistema.sql (de preferencia importarla).
+
+2.- En caso de haber creado la base de datos,
+    abrir el archivo setup.php colocado en localhost/system/sistema/setup.php
+
+3.- Abrir el proyecto
+
+4.- Ver los productos
+
+5.- crear una cuenta para realizar compras
