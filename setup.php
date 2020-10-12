@@ -52,7 +52,7 @@
     'Es un sofá de 2 x 1.5 metros', 'sofa.png')");
 
     queryMysql("INSERT INTO members(user, pass, idaccess, money)
-    VALUES('admin', '123', '1', '')");
+    VALUES('admin', '123', '1', '6000')");
 
 ?>
 
